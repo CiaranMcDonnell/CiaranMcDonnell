@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @CiaranMcDonnell
 - 👀 I’m interested in Computer Science
+- 📚 Computer Science @ UCD
