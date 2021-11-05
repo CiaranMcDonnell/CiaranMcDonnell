@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @CiaranMcDonnell
-- 📚 First Year Computer Science @ UCD
+- comp sci @ ucd
